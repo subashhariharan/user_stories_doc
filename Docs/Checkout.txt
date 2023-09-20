@@ -1,0 +1,4 @@
+User story examples for the checkout process
+As a shopper, I need the ability to view different products across multiple product ranges, so that I can find an item I want to buy.
+As a shopper, I need the ability to add item(s) to my shopping basket by selecting ‘add to basket’, so that I can create a checkout basket and purchase items.
+As a shopper, I need the ability to remove items from my shopping basket by selecting ‘remove’ next to the given product, so that I can purchase only the things I want.
